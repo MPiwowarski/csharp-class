@@ -4,7 +4,7 @@
 
 0. Understanding the **English** language in writing and reading. We will use English annotations in the code, in the comments, in the documentation, and we will rely on data resources that are based on English.
 
-1. Well-working laptop or desktop PC with Windows 10 or **Windows 11** installed(preferred)
+1. Well-working laptop or desktop PC with Windows 10 or **Windows 11** installed(**preferred**)
 
 2. **Two screens**. One screen will be used to watch the live presentation and the 2nd one will be used to replicate the stuff demoed during the presentation.
 
