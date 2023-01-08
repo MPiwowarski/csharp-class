@@ -9,17 +9,16 @@
 2. **Two screens**. One screen will be used to watch the live presentation and the 2nd one will be used to replicate the stuff demoed during the presentation.
 
 3. **Visual Studio 2022 Community** installed and working well on your machine.
-You can download the VS for free from here:
-https://visualstudio.microsoft.com/vs/
-To do the installation you can rely on this tutorial:
-https://youtu.be/-B7GObvvems
+You can download the VS for free from here: __
+https://visualstudio.microsoft.com/vs/ __
+To do the installation you can rely on this tutorial: __
+https://youtu.be/-B7GObvvems __
+It's important that you can create your first console application and run it as demoed in the installation video! 
 
-It's important that you can create your first console application and run it as demoed in the installation video!
-
-4. Download and configure **MS Teams**:
-https://www.microsoft.com/en-us/microsoft-teams/free
-It works quite similarly to Skype but it's much better for co-operations in teams.
-Once it's done, please provide me your dedicated Microsoft email in pm(private message) so I can invite you to the group.
+4. Download and configure **MS Teams**: __
+https://www.microsoft.com/en-us/microsoft-teams/free __
+It works quite similarly to Skype but it's much better for co-operations in teams. __
+Once it's done, please provide me your dedicated Microsoft email in pm(private message) so I can invite you to the group. 
 
 ### NON-TECHNICAL
 5. There is one meeting scheduled per week. It happens on Tuesday at 19:00 GMT(Greenwich Mean Time). In short, it means **20:00 in the Polish** time zone and **19:00 in the UK** one.
