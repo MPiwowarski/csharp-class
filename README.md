@@ -27,9 +27,13 @@ Once it's done, please provide me your dedicated Microsoft email in pm(private m
 
 
 ## About "C# Basics" Course
+
 1. We will learn about C# basics from scratch, which allows you to understand how programs work and give you knowledge on how to build your own console applications.
 
 2. During the meetings I will demo and discuss specific things about .NET CORE platform and C#. You will be asked to replicate stuff that I demoed and occasionally you will have to resolve simple tasks that I provide you.
 
 3. After each class I will give you some homework. It's essential to do homework on your own as it will make you closer to feeling and being an individual software developer.
 - I will groom and explain homework from previous lesson at the very beginning of next class.
+
+
+ # The very 1st class is planned for 17/01/2023 Tuesday. 
