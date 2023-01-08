@@ -11,7 +11,6 @@
 3. **Visual Studio 2022 Community** installed and working well on your machine.
 You can download the VS for free from here:
 https://visualstudio.microsoft.com/vs/
-
 To do the installation you can rely on this tutorial:
 https://youtu.be/-B7GObvvems
 
@@ -19,7 +18,6 @@ It's important that you can create your first console application and run it as 
 
 4. Download and configure **MS Teams**:
 https://www.microsoft.com/en-us/microsoft-teams/free
-
 It works quite similarly to Skype but it's much better for co-operations in teams.
 Once it's done, please provide me your dedicated Microsoft email in pm(private message) so I can invite you to the group.
 
