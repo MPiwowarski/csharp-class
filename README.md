@@ -2,7 +2,7 @@
 
 ## Requirements for the Course
 
-0. Understanding the **English** language in writing and reading. We will use English annotations in the code, in the comments, and in the documentation, and we will rely on data resources that are based on English.
+0. Understanding the **English** language in writing and reading. We will use English annotations in the code, in the comments, in the documentation, and we will rely on data resources that are based on English.
 
 1. Well-working laptop or desktop PC with Windows 10 or **Windows 11** installed(preferred)
 
