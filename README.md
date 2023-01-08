@@ -9,15 +9,15 @@
 2. **Two screens**. One screen will be used to watch the live presentation and the 2nd one will be used to replicate the stuff demoed during the presentation.
 
 3. **Visual Studio 2022 Community** installed and working well on your machine.
-You can download the VS for free from here: __
-https://visualstudio.microsoft.com/vs/ __
-To do the installation you can rely on this tutorial: __
-https://youtu.be/-B7GObvvems __
+You can download the VS for free from here: <br />
+https://visualstudio.microsoft.com/vs/ <br />
+To do the installation you can rely on this tutorial: <br />
+https://youtu.be/-B7GObvvems <br />
 It's important that you can create your first console application and run it as demoed in the installation video! 
 
-4. Download and configure **MS Teams**: __
-https://www.microsoft.com/en-us/microsoft-teams/free __
-It works quite similarly to Skype but it's much better for co-operations in teams. __
+4. Download and configure **MS Teams**: <br />
+https://www.microsoft.com/en-us/microsoft-teams/free <br />
+It works quite similarly to Skype but it's much better for co-operations in teams. <br />
 Once it's done, please provide me your dedicated Microsoft email in pm(private message) so I can invite you to the group. 
 
 ### NON-TECHNICAL
