@@ -11,7 +11,7 @@
 3. **Visual Studio 2022 Community** installed and working well on your machine.
 You can download the VS for free from here: <br />
 https://visualstudio.microsoft.com/vs/ <br />
-To do the installation you can rely on this tutorial: <br />
+To do the installation you can rely on this tutorial: <br /> <br />
 https://youtu.be/-B7GObvvems <br />
 It's important that you can create your first console application and run it as demoed in the installation video! 
 
