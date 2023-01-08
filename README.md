@@ -9,7 +9,7 @@
 2. **Two screens**. One screen will be used to watch the live presentation and the 2nd one will be used to replicate the stuff demoed during the presentation.
 
 3. **Visual Studio 2022 Community** installed and working well on your machine.
-You can download the VS for free from here: <
+You can download the VS for free from here: <br />
 https://visualstudio.microsoft.com/vs/ <br /><br />
 To do the installation you can rely on this tutorial: <br /> 
 https://youtu.be/-B7GObvvems <br />
