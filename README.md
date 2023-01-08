@@ -16,7 +16,7 @@ https://youtu.be/-B7GObvvems <br />
 It's important that you can create your first console application and run it as demoed in the installation video! 
 
 4. Download and configure **MS Teams**: <br />
-https://www.microsoft.com/en-us/microsoft-teams/free <br />
+https://www.microsoft.com/en-us/microsoft-teams/free <br /><br />
 It works quite similarly to Skype but it's much better for co-operations in teams. <br />
 Once it's done, please provide me your dedicated Microsoft email in pm(private message) so I can invite you to the group. 
 
