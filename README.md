@@ -15,13 +15,11 @@ To do the installation you can rely on this tutorial: <br />
 https://youtu.be/-B7GObvvems <br /><br />
 It's important that you can create your first console application and run it as demoed in the installation video! 
 
-4. Download and configure **MS Teams**: <br />
-https://www.microsoft.com/en-us/microsoft-teams/free <br /><br />
-It works quite similarly to Skype but it's much better for co-operations in teams. <br />
-Once it's done, please provide me your dedicated Microsoft email in pm(private message) so I can invite you to the group. 
+4. Download **Discord** and join our dedicated server <br />
+https://discord.gg/CRMA6aXr <br /><br />
 
 ### NON-TECHNICAL
-5. There is one meeting scheduled per week. It happens on Tuesday at 19:00 GMT(Greenwich Mean Time). In short, it means **20:00 in the Polish** time zone and **19:00 in the UK** one.
+5. There is one meeting scheduled per week. It happens each Tuesday at 19:00 UK, 20:00 PL time.
 
 6. It's required to **check that your PC works well** before the meeting starts. I will be available 15min before it begins in case somebody needs a hand with fixing unexpected issues.
 
