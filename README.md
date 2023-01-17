@@ -19,7 +19,7 @@ It's important that you can create your first console application and run it as 
 https://discord.gg/CRMA6aXr <br /><br />
 
 ### NON-TECHNICAL
-5. There is one meeting scheduled per week. It happens each Tuesday at 19:00 UK, 20:00 PL time.
+5. There is one meeting scheduled per week. It happens each Tuesday at 18:30 UK, 19:30 PL time.
 
 6. It's required to **check that your PC works well** before the meeting starts. I will be available 15min before it begins in case somebody needs a hand with fixing unexpected issues.
 
