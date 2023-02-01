@@ -39,7 +39,7 @@ https://discord.gg/CRMA6aXr <br /><br />
 | --------- | ------------------- | -------------------------------------------------------- |
 | 1         | 17-01-2023 18:30 UK | Introduction; Console operations, string variable        |
 | 2         | 24-01-2023 18:30 UK | Variables, try/catch, if/else, Parse/TryParse            |
-| 3         | 31-01-2023 18:30 UK | Game, Random int, return, && || operators                |
+| 3         | 31-01-2023 18:30 UK | Game, Random int, return, operators: && or \|\|          |
 | 4         | 07-02-2023 18:30 UK |                                                          |
 | 5         | 14-02-2023 18:30 UK |                                                          |
 | 6         | 21-02-2023 18:30 UK |                                                          |
