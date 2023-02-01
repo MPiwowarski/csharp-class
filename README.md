@@ -33,5 +33,25 @@ https://discord.gg/CRMA6aXr <br /><br />
 3. After each class I will give you some homework. It's essential to do homework on your own as it will make you closer to feeling and being an individual software developer.
 - I will groom and explain homework from previous lesson at the very beginning of next class.
 
+## Schedule
+
+| Class ID  | Date             |
+| --------- | ---------------- |
+| 1         | 17-01-2023 18:30 |
+| 2         | 24-01-2023 18:30 |
+| 3         | 31-01-2023 18:30 |
+| 4         | 07-02-2023 18:30 |
+| 5         | 14-02-2023 18:30 |
+| 6         | 21-02-2023 18:30 |
+| 7         | 28-02-2023 18:30 |
+| 8         | 07-03-2023 18:30 |
+| 9         | 14-03-2023 18:30 |
+| 10        | 21-03-2023 18:30 |
+| 11        | 28-03-2023 18:30 |
+| 12        | 04-04-2023 18:30 |
+| 13        | 11-04-2023 18:30 |
+| 14        | 18-04-2023 18:30 |
+| 15        | 25-04-2023 18:30 | EXAM
+
 
  # The very 1st class is planned for 17/01/2023 Tuesday. 
