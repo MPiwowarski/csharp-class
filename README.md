@@ -2,36 +2,29 @@
 
 ## Requirements for the Course
 
-0. Understanding the **English** language in writing and reading. We will use English annotations in the code, in the comments, in the documentation, and we will rely on data resources that are based on English.
+0. Understanding of the English language in both writing and reading. English will be used in code annotations, comments, documentation, and data resources.
 
-1. Well-working laptop or desktop PC with Windows 10 or **Windows 11** installed(**preferred**)
+1. A well-working laptop or desktop PC with Windows 10 (preferred) or Windows 11 installed.
 
-2. **Two screens**. One screen will be used to watch the live presentation and the 2nd one will be used to replicate the stuff demoed during the presentation.
+2. Two screens. One for watching the live presentation and the other for replicating what is demoed during the presentation.
 
-3. **Visual Studio 2022 Community** installed and working well on your machine.
-You can download the VS for free from here: <br />
-https://visualstudio.microsoft.com/vs/ <br /><br />
-To do the installation you can rely on this tutorial: <br /> 
-https://youtu.be/-B7GObvvems <br /><br />
-It's important that you can create your first console application and run it as demoed in the installation video! 
+3. Visual Studio 2022 Community installed and working properly on your machine. You can download VS for free from the following link: https://visualstudio.microsoft.com/vs/. For installation, you can follow this tutorial: https://youtu.be/-B7GObvvems. It's important that you can create your first console application and run it as demonstrated in the installation video.
 
-4. Download **Discord** and join our dedicated server <br />
-https://discord.gg/CRMA6aXr <br /><br />
+4. Download Discord and join our dedicated server: https://discord.gg/CRMA6aXr.
 
 ### NON-TECHNICAL
-5. There is one meeting scheduled per week. It happens each Tuesday at 18:30 UK, 19:30 PL time.
+5. There is one meeting per week on Tuesdays at 18:30 UK, 19:30 PL time.
 
-6. It's required to **check that your PC works well** before the meeting starts. I will be available 15min before it begins in case somebody needs a hand with fixing unexpected issues.
+6. Ensure that your PC is working properly before the meeting starts. I will be available 15 minutes before the start in case someone needs help with fixing any unexpected issues.
 
 
 ## About "C# Basics" Course
 
-1. We will learn about C# basics from scratch, which allows you to understand how programs work and give you knowledge on how to build your own console applications.
+1. We will learn C# basics from scratch, which will give you an understanding of how programs work and knowledge of how to build your own console applications.
 
-2. During the meetings I will demo and discuss specific things about .NET CORE platform and C#. You will be asked to replicate stuff that I demoed and occasionally you will have to resolve simple tasks that I provide you.
+2. During the meetings, I will demonstrate and discuss specific topics related to the .NET CORE platform and C#. You will be asked to replicate what I demo, and occasionally, you will have to complete simple tasks I provide.
 
-3. After each class I will give you some homework. It's essential to do homework on your own as it will make you closer to feeling and being an individual software developer.
-- I will groom and explain homework from previous lesson at the very beginning of next class.
+3. After each class, you will receive homework. It's essential to complete the homework on your own as it will help you feel closer to becoming an individual software developer. I will review and explain the previous lesson's homework at the start of the next class.
 
 ## Schedule
 
